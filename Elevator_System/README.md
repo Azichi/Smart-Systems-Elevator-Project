@@ -15,7 +15,7 @@ The original idea was to create a system that could handle both vertical and hor
 
 - **Elevator_System_Motor_Testing/**: Focuses on testing individual motor functionality before integration into the full system.
 
-- **New_Elevator_System_Final_Version/**: This version explored a lock mechanism to switch between vertical and horizontal movement but was ultimately not feasible. The version still offers a working vertical-only solution.
+- **New_Elevator_System/**: This version explored a lock mechanism to switch between vertical and horizontal movement but was ultimately not feasible.
   - **Mock_Simulator/**: Simulated testing environment for the elevator system, not requiring physical hardware.
 
 - **Final_System_Vertical_Only/**: The final, simplified version of the project, implementing vertical movement for one spot and one floor due to earlier limitations.
